@@ -4,10 +4,11 @@ Return Path:
 ex: code
 
 ````
+Powershell
+````
 ```PowerShell
 (gcm code).Path
 ```
-````
 
 ```bash
 whereis code
